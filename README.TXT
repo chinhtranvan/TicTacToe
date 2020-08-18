@@ -1,6 +1,6 @@
 PROJECT TITLE: TIC TAC TOE
 VERSION or DATE: 04/29/19
-AUTHORS: Chinh Tran
+AUTHORS: Chinh Tran and Loc Tran
 USER INSTRUCTIONS:
 
 Step 1: compile all of the source codes by using the following command lines:
